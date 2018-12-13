@@ -1,7 +1,7 @@
 {
   "update": "Yes",
   "new_version": "M4_1.0.1.1",
-  "apk_file_url": "https://raw.github.com/blacktortoise/bladderscanner/master/m4_app/M4_HD.apk",
+  "apk_file_url": "https://raw.githubusercontent.com/blacktortoise/bladderscanner/a006326d605b9a7f3cf64181aaf2ec4d2ba9fd90/m4_app/M4_HD.apk",
   "update_log": "1，修复bug。\r\n2，优化存储。\r\n3，优化数据处理速度\r\n",
   "target_size": "5M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
