@@ -1,5 +1,5 @@
 {
-  "update": "Yes",
+  "update": "No",
   "new_version": "M4-V 1.0.0.1",
   "apk_file_url": "https://raw.githubusercontent.com/blacktortoise/bladderscanner/master/m4_app/M4_HD.apk",
   "update_log": "1，修复bug。\r\n2，优化存储。\r\n3，优化数据处理速度\r\n",
